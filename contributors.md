@@ -9,3 +9,5 @@ Añade tu línea al final siguiendo este formato:
 - Mohamed Kadi Brikoui (@Moha-Kadi)
 
 - Francisco Cortes Carmona (@fcorcar)
+
+- Alejandro Rodriguez Sanchez (@alexz05z)
