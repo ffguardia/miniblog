@@ -2,4 +2,6 @@
 
 Añade tu línea al final siguiendo este formato:
 
-- Nombre Apellido (@usuarioGitHub)
+- Fran Fernandez Guardia (@ffguardia)
+
+- Issa El Mokadem (@issx03)
